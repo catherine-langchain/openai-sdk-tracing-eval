@@ -1,0 +1,15 @@
+langgraph
+langgraph-sdk
+langsmith
+langchain-core
+langchain-openai
+langchain_community
+openevals
+openai
+openevals
+protobuf
+openai-agents
+openai
+jinja2
+pydantic
+python-dotenv
